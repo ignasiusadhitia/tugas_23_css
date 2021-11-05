@@ -1,0 +1,20 @@
+tr {
+  border-top: 20px solid #28282b !important;
+  border-bottom: 20px solid #28282b !important;
+}
+
+.blue {
+  background: #51a4b6;
+}
+
+.green {
+  background: #198754;
+}
+
+.yellow {
+  background: #ffc107;
+}
+
+.red {
+  background: #dc3545;
+}
